@@ -2,7 +2,7 @@
 
 Wikipedia : https://en.wikipedia.org/wiki/Seemingly_unrelated_regressions
 
-The SUR model, proposed by Arnold Zellner in (1962), is also known as the "seemingly related regression" since the error terms are correlated across equations.
+The SUR model, proposed by Arnold Zellner in (1962), is also known as the `seemingly related regression` since the error terms are correlated across equations.
 
 - Model:
 
