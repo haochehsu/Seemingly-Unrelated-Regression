@@ -20,7 +20,7 @@ $$\begin{pmatrix}y_1 \\\ y_2 \\\ y_3 \\\ y_4\end{pmatrix}=\begin{pmatrix}X_1 & 0
 
 - Stack: $y_{i}=X_i\beta_i+\epsilon_{i}, \ \ i=1,2,3,4$ where $y_i$ and $\epsilon_i$ are $4\times 1$, $X_i$ is $4\times k_i$, and $\beta_i$ has dimension $k_i \times 1$ with $k_i$ is the vector of regressors for equation $i$.
 
---
+---
 
 ### DGP
 
